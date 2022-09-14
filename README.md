@@ -1,5 +1,6 @@
-<a href="https://mod.io"><img src="https://static.mod.io/v1/images/branding/modio-color-dark.svg" alt="mod.io" width="360" align="right"/></a>
+<a href="https://mod.io"><img src="https://mod.io/images/branding/modio-logo-bluedark.svg" alt="mod.io" width="360" align="right"/></a>
 # GameMaker 2 Extension
+
 [![Discord](https://img.shields.io/discord/389039439487434752.svg?label=Discord&logo=discord&color=7289DA&labelColor=2C2F33)](https://discord.mod.io)
 
 Welcome to [mod.io](https://mod.io) GameMaker Studio 2 Example Extension [created by YellowAfterlife](https://github.com/YellowAfterlife/modio-rest). It allows game developers to control the browsing and installation of mod files in their games. It uses a [Haxe wrapper](https://github.com/YellowAfterlife/modio-rest) connected to the [mod.io API](https://docs.mod.io), that currently supports GML/sys.threaded/js to make implementation easier. We have a [test environment](https://test.mod.io) available which offers developers a private sandbox to try the GameMaker 2 Plugin out.
