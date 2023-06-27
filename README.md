@@ -1,7 +1,7 @@
 ---
 
 ## Note
-This plugin is no longer supported or maintained, please see new [Official GameMaker mod.io Extension](https://github.com/YoYoGames/GMEXT-mod.io). For questions or integration support, please reach out to developers@mod.io.
+This plugin is no longer supported or maintained, please see new [Official GameMaker mod.io Extension](https://github.com/YoYoGames/GMEXT-mod.io).
 
 ---
 
